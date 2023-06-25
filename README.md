@@ -5,7 +5,7 @@
 > Site desenvolvido através do desafio de 7 dias da Alura
 
 ## Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/jogo-forca/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/optimustech/)
 
 ## 🛠 Tecnologias
 
