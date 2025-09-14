@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo 7 Days of Code - Alura" src="https://i.imgur.com/ogngMHF.png" width="200px" />
-</p> 
+</p>
 
 <p align="center">
 Aplicação desenvolvida no 7 Days of Code da Alura.
